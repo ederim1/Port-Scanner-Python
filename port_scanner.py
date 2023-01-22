@@ -2,8 +2,8 @@
 #Find more details in the README file
 #By Eder Morales
 
-#import the needed modules and/or libraries for the program to run
 
+#this piece of code imports the needed modules and/or libraries for the program to run
 from queue import Queue
 import socket
 import threading
